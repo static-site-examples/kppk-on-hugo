@@ -1,7 +1,8 @@
 baseURL = "https://example.com/"
 title = "Новые рынки для российского экспорта"
 languageCode = "ru"
-theme = "hugo-book"
+theme = "book"
+themeDirs = "themes"
 disableKinds = [
   "taxonomy",
   "taxonomyTerm"
