@@ -2,12 +2,13 @@
 headless: true
 ---
 
-- [**Introduction**]({{< relref "/" >}})
+- [**Введение**]({{< relref "/" >}})
 - [Examples]({{< relref "/docs/examples.md" >}})
   - [With Table of contents]({{< relref "/docs/with-toc.md" >}})
   - [Without Table of Contents]({{< relref "/docs/without-toc.md" >}})  
-- **More Examples**
-- [Server]({{< relref "/docs/server.md" >}})
-- [Client]({{< relref "/docs/client.md" >}})
-- [Advanced]({{< relref "/docs/advanced.md" >}})  
+- **Комплексные программы поддержки конкурентоспособности**
+  - [Server]({{< relref "/docs/server.md" >}})
+  - [Client]({{< relref "/docs/client.md" >}})
+- **Статистика экспорта**
+  - [Advanced]({{< relref "/docs/advanced.md" >}})  
 - [**Blog**]({{< relref "/posts" >}})

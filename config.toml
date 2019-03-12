@@ -1,0 +1,18 @@
+baseURL = "https://example.com/"
+title = "Новые рынки для российского экспорта"
+languageCode = "ru"
+theme = "hugo-book"
+disableKinds = [
+  "taxonomy",
+  "taxonomyTerm"
+]
+disablePathToLower = true
+#enableGitInfo = false
+
+[params]
+BookShowToC = true
+BookMenuBundle = "/menu"
+BookSection = "docs"
+BookEnableJS = true
+#BookRepo = "https://github.com/alex-shpak/hugo-book"
+#BookEditPath = "edit/master/exampleSite/content"
